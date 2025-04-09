@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
   termsText: {
     fontSize: 14,
     color: '#666',
-    textAlign: 'center',
+    textAlign: 'left',
     marginVertical: 20,
   },
   link: {
