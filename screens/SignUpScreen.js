@@ -106,13 +106,13 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    textAlign: 'center',
+    textAlign: 'left',
     marginTop: 20,
   },
   subtitle: {
     fontSize: 14,
     color: '#666',
-    textAlign: 'center',
+    textAlign: 'left',
     marginVertical: 10,
   },
   label: {
